@@ -212,7 +212,7 @@ A versão atual possui:
 
 #  Estrutura do projeto
 
-## Como visualizar a estrutura com `tree`
+## Como visualizar a estrutura com **tree**
 
 No Windows, abra o terminal dentro da pasta do projeto e execute:
 
