@@ -9,6 +9,6 @@
 # Funcionalidades
 
 # Estrutura 
- para acessar [  página inicial](docs/paginaInicial.md)
+ para acessar [  página inicial](docs/paginainicial.md)
 
 # Autores
