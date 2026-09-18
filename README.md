@@ -35,6 +35,8 @@ O visitante entra na Optix, conhece a plataforma e, caso já tenha realizado uma
 
 ---
 
+Para acessar mais informações sobre a   [página inicial](docs/paginainicial.md)
+
 # Problema a ser resolvido
 
 Operações fotográficas em parques, atrações e experiências produzem uma grande quantidade de fotos e vídeos durante o dia.
