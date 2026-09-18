@@ -35,7 +35,7 @@ O visitante entra na Optix, conhece a plataforma e, caso já tenha realizado uma
 
 ---
 
-# 3. Problema a ser resolvido
+# Problema a ser resolvido
 
 Operações fotográficas em parques, atrações e experiências produzem uma grande quantidade de fotos e vídeos durante o dia.
 
@@ -88,9 +88,9 @@ O objetivo é deixar a experiência mais rápida, intuitiva e padronizada.
 
 ---
 
-# 4. Requisitos operacionais
+# Requisitos operacionais
 
-## 4.1 Para visualizar a página
+## Para visualizar a página
 
 É recomendado utilizar um navegador moderno, por exemplo:
 
@@ -106,7 +106,7 @@ A página foi desenvolvida para funcionar em:
 - tablet;
 - celular.
 
-## 4.2 Para usar o leitor de QR Code
+##  Para usar o leitor de QR Code
 
 O dispositivo precisa possuir:
 
@@ -116,7 +116,7 @@ O dispositivo precisa possuir:
 
 Em ambiente publicado, o acesso à câmera deve ocorrer utilizando conexão segura **HTTPS**.
 
-## 4.3 Para executar o projeto em ambiente de desenvolvimento
+##  Para executar o projeto em ambiente de desenvolvimento
 
 O projeto utiliza tecnologias de front-end e também uma camada interna de servidor.
 
@@ -139,7 +139,7 @@ requirements.txt
 
 > A instalação, configuração e arquitetura completa do backend não são detalhadas nesta documentação pública, pois fazem parte da próxima etapa do projeto.
 
-## 4.4 Arquivos necessários para a interface
+##  Arquivos necessários para a interface
 
 Para compreender visualmente o projeto, os diretórios mais importantes são:
 
@@ -154,7 +154,7 @@ static/
 
 ---
 
-# 5. Ferramentas utilizadas
+# Ferramentas utilizadas
 
 | Ferramenta / tecnologia | Para que foi utilizada |
 |---|---|
@@ -174,7 +174,7 @@ static/
 
 ---
 
-# 6. Funcionalidades gerais
+#  Funcionalidades gerais
 
 Esta seção apresenta apenas um resumo. As funcionalidades completas estão descritas no **Arquivo 2 — Funcionalidades**.
 
@@ -200,9 +200,9 @@ A versão atual possui:
 
 ---
 
-# 7. Estrutura do projeto
+#  Estrutura do projeto
 
-## 7.1 Como visualizar a estrutura com `tree`
+## Como visualizar a estrutura com `tree`
 
 No Windows, abra o terminal dentro da pasta do projeto e execute:
 
@@ -220,7 +220,7 @@ O parâmetro `/A` utiliza caracteres simples, evitando problemas de exibição n
 C:\Projeto\Optix Web> tree /F /A
 ```
 
-## 7.2 Estrutura simplificada
+## Estrutura simplificada
 
 A árvore abaixo foi simplificada para mostrar as partes mais importantes do projeto público:
 
@@ -295,7 +295,7 @@ A explicação técnica desses arquivos será realizada no projeto do semestre s
 
 ---
 
-# 8. Autores
+# Autores
 
 Projeto desenvolvido pela equipe:
 
@@ -308,7 +308,7 @@ Projeto relacionado ao desenvolvimento e redesign da plataforma **Optix — Solu
 
 ---
 
-# 9. Página inicial
+# Página inicial
 
 A página inicial é a primeira tela apresentada ao visitante.
 
@@ -329,7 +329,7 @@ static/index.css
 
 ---
 
-## 9.1 Cabeçalho
+## Cabeçalho
 
 Na parte superior da página ficam os principais controles de navegação.
 
@@ -344,7 +344,7 @@ A ideia é permitir que o usuário navegue sem precisar procurar os recursos esp
 
 ---
 
-## 9.2 Menu
+## Menu
 
 O menu funciona como um painel de navegação.
 
@@ -369,7 +369,7 @@ Menu fecha / página navega
 
 ---
 
-## 9.3 Tema claro e escuro
+## Tema claro e escuro
 
 A página possui dois temas:
 
@@ -386,7 +386,7 @@ Isso significa que, quando possível, o site lembra qual tema o visitante escolh
 
 ---
 
-## 9.4 Hero principal
+## Hero principal
 
 O **hero** é a primeira grande área visual da página.
 
@@ -408,7 +408,7 @@ O hero combina:
 
 ---
 
-## 9.5 Localizar meus arquivos
+## Localizar meus arquivos
 
 A página apresenta uma chamada para visitantes que já participaram de alguma experiência.
 
@@ -427,7 +427,7 @@ A intenção é deixar claro que existem dois tipos de visitante:
 
 ---
 
-## 9.6 Momentos Optix
+## Momentos Optix
 
 A seção **Momentos Optix** apresenta exemplos visuais de experiências registradas pela plataforma.
 
@@ -439,7 +439,7 @@ A seção possui navegação horizontal e interação adaptada para diferentes t
 
 ---
 
-## 9.7 Como funciona
+## Como funciona
 
 A página resume o funcionamento da Optix em etapas simples.
 
@@ -476,7 +476,7 @@ ENTREGA
 
 ---
 
-## 9.8 Do clique à entrega
+## Do clique à entrega
 
 Essa seção mostra que a Optix participa de várias etapas do processo fotográfico.
 
@@ -496,7 +496,7 @@ Ela faz parte de um fluxo de trabalho maior.
 
 ---
 
-## 9.9 Tecnologias de captura
+## Tecnologias de captura
 
 A página apresenta exemplos de formas de captura utilizadas em diferentes operações.
 
@@ -512,7 +512,7 @@ Esses itens aparecem como apresentação das possibilidades da plataforma.
 
 ---
 
-## 9.10 Gestão e organização
+##  Gestão e organização
 
 A página também apresenta recursos relacionados à organização dos registros.
 
@@ -529,7 +529,7 @@ Nesta etapa, a documentação explica **o que a página apresenta ao visitante**
 
 ---
 
-## 9.11 Localização das lembranças
+##  Localização das lembranças
 
 A Optix apresenta diferentes formas de permitir que o visitante encontre seus registros.
 
@@ -548,7 +548,7 @@ Alguns representam recursos da plataforma Optix como um todo.
 
 ---
 
-## 9.12 Plataforma para empresas
+## Plataforma para empresas
 
 Existe uma seção voltada a empresas e operações que possam utilizar a solução.
 
@@ -565,7 +565,7 @@ Entre os recursos mostrados estão:
 
 ---
 
-## 9.13 Segurança e privacidade
+## Segurança e privacidade
 
 A página possui acesso aos documentos de:
 
@@ -586,7 +586,7 @@ Esses arquivos controlam principalmente a apresentação e interação dos texto
 
 ---
 
-## 9.14 Experiência em números
+## Experiência em números
 
 A página possui uma seção institucional de indicadores.
 
@@ -610,7 +610,7 @@ Eles não são calculados em tempo real pela interface.
 
 ---
 
-## 9.15 Contato
+## Contato
 
 Ao final da página existe uma área de contato.
 
