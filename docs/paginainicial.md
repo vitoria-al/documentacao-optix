@@ -531,4 +531,4 @@ Se for necessário explicar a página inicial em poucas palavras:
 ---
 
 
-[voltar](../README.md)
+[Voltar para README](../README.md)
