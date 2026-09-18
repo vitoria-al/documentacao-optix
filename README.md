@@ -2,11 +2,6 @@
 
 O projeto corresponde à nova interface web da Optix, criada para apresentar a plataforma de forma moderna, explicar seus serviços e permitir que o visitante encontre suas fotos e vídeos.
 
-
-
-
-### Para acessar mais informações sobre a   [página inicial](docs/paginainicial.md)
-
 # Descrição
 
 A **Optix — Soluções Fotográficas** é uma plataforma voltada à gestão e entrega de registros fotográficos e audiovisuais produzidos em parques, atrações e experiências.
@@ -292,6 +287,8 @@ Optix Web
         arquivos internos existentes no projeto,
         mas não detalhados publicamente nesta etapa
 ```
+
+### Acessar mais informações sobre a  [página inicial](docs/paginainicial.md)
 
 # Autores
 
