@@ -181,7 +181,7 @@ static/
 
 #  Funcionalidades gerais
 
-Esta seção apresenta apenas um resumo. As funcionalidades completas estão descritas no **[funcionalidades](docs/funcionalidades.md)**.
+Esta seção apresenta apenas um resumo. As funcionalidades completas estão descritas em **[funcionalidades](docs/funcionalidades.md)**.
 
 A versão atual possui:
 
