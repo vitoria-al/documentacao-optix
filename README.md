@@ -35,6 +35,10 @@ O visitante entra na Optix, conhece a plataforma e, caso já tenha realizado uma
 
 ---
 
+
+
+
+
 Para acessar mais informações sobre a   [página inicial](docs/paginainicial.md)
 
 # Problema a ser resolvido
@@ -178,7 +182,7 @@ static/
 
 #  Funcionalidades gerais
 
-Esta seção apresenta apenas um resumo. As funcionalidades completas estão descritas no **Arquivo 2 — Funcionalidades**.
+Esta seção apresenta apenas um resumo. As funcionalidades completas estão descritas no **[funcionalidades](docs/funcionalidades.md)**.
 
 A versão atual possui:
 
