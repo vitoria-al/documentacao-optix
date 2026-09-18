@@ -64,6 +64,11 @@ static/
 
 ---
 
+
+
+| Ir para [arquivos detalhados](docs/arquivosDetalhados.md) |
+
+
 # Ferramentas utilizadas
 
 | Ferramenta / tecnologia | Para que foi utilizada |
