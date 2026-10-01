@@ -160,7 +160,7 @@ static/
 ---
 
 
-| Ir para [arquivos detalhados](docs/arquivosDetalhados.md) |
+| Para acessar mais informações sobre os arquivos acesse: [arquivos detalhados](docs/arquivosDetalhados.md) |
 
 # Ferramentas utilizadas
 
