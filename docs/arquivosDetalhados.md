@@ -801,9 +801,7 @@ backend/
 
   
 
-[Voltar para Página Inicial](../docs/paginainicial.md)
+| [Voltar para Página Inicial](../docs/paginainicial.md) |
 
-
-  ---
-[Voltar para README](../README.md)
+| [Voltar para README](../README.md) |
 
