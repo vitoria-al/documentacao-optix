@@ -66,7 +66,7 @@ static/
 
 
 
-| Para mais informações sobre os arquivos acesse: [arquivos detalhados](docs/arquivosDetalhados.md) |
+| Para mais informações sobre os arquivos acesse: [arquivos detalhados](arquivosDetalhados.md) |
 
 
 # Ferramentas utilizadas
