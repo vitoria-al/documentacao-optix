@@ -624,8 +624,6 @@ Nesta versão pública, esses recursos podem ser citados apenas para contextuali
 
 ---
 
+ | [Voltar para Página Inicial](../docs/paginainicial.md) |
 
-
-[Voltar para Página Inicial](../docs/paginainicial.md)
----
-[Voltar para README](../README.md)
+ | [Voltar para README](../README.md) |
