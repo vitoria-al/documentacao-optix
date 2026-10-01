@@ -291,7 +291,9 @@ Optix Web
         mas não detalhados publicamente nesta etapa
 ```
 
-### Acessar mais informações sobre a  [página inicial](docs/paginainicial.md)
+
+
+| Acessar mais informações sobre a  [página inicial](docs/paginainicial.md) |
 
 # Autores
 
